@@ -9,6 +9,9 @@ Aplicación móvil para el control y organización de gastos personales, desarro
 - **Corte 1:** Kodular con persistencia en el dispositivo (TinyDB) y uso de sensores
 - **Ejercicio asignado:** N° 6 — Gastos
 
+## Video de sustentación
+
+[Ver video en YouTube](https://youtu.be/VK8NOq-FeE8)
 ## Tecnología
 
 - Kodular Creator
