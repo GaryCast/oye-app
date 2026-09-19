@@ -16,14 +16,14 @@ Aplicación móvil para el control y organización de gastos personales, desarro
 - Sensores utilizados: Clock (temporizador de splash) y LocationSensor (ubicación GPS)
 
 ## Estructura del repositorio
-
+```
 oye-app/
 ├── apk/
 │   └── oye.apk          # Aplicación instalable
 ├── source/
 │   └── oye.aia           # Proyecto fuente de Kodular
 └── README.md
-
+```
 ## Funcionalidades
 
 - **Login y registro** de usuarios, con roles de Usuario General y Administrador
